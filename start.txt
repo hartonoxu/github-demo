@@ -1,5 +1,5 @@
 test git quick starrt demo
 second line, this will change by first PR, 
 
-fourth line, the sefcond PR will change this, but will bring back change of second line
+fourth line, ok i change d this. the sefcond PR will change this, but will bring back change of second line
 to original
